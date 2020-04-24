@@ -1,7 +1,7 @@
 # Literature
 Recommended lectures, literature on math and computer science
 
-Linear Algebra Literature 
+** Linear Algebra Literature **  
 /***
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
