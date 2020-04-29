@@ -14,3 +14,9 @@ Recommended lectures, literature on math and computer science
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
 | Gilbert Strang(MIT)| Linear Algebra | https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/  | Course offered by MIT |
+
+## Data Science 
+### Lectures
+| __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
+|-------------|------------|------------|------------|
+| Ali Ghodsi| Data Visualization | https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK  | Course offered by The University of Waterloo |
