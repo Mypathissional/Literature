@@ -19,4 +19,4 @@ Recommended lectures, literature on math and computer science
 ### Lectures
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-| Ali Ghodsi| Data Visualization | https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK  | Course offered by The University of Waterloo |
+| Ali Ghodsi| Data Visualization | [YouTube](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)  | Course offered by The University of Waterloo |
