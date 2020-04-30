@@ -13,7 +13,7 @@ Recommended lectures, literature on math and computer science
 ### Lectures
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-| Gilbert Strang(MIT)| Linear Algebra | https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/  | Course offered by MIT |
+| Gilbert Strang(MIT)| Linear Algebra | [MIT Lecture ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  | Course offered by MIT |
 
 ## Data Science 
 ### Lectures
