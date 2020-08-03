@@ -22,7 +22,7 @@ Recommended lectures, literature on math and computer science
 | Ali Ghodsi| Data Visualization | [YouTube](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)  | Course offered by The University of Waterloo |
 
 ## Optimization
-## Lectures
+### Lectures
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
 | Michel Bierlaire(EPFL)| Descent methods| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
