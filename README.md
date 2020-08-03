@@ -25,5 +25,4 @@ Recommended lectures, literature on math and computer science
 ## Lectures
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-| Michel Bierlaire(EPFL)| 11 Descent methods
- | [EPFL Lecture ](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
+| Michel Bierlaire(EPFL)| Descent methods| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
