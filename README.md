@@ -26,3 +26,5 @@ Recommended lectures, literature on math and computer science
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
 | Michel Bierlaire(EPFL)| Descent methods| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
+|Ryan Tibshirani (Carnegie Mellon University) | Convex Optimization: Fall 2019 | [YouTube](https://www.youtube.com/watch?v=ucPR0lSFpdk&list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT) , [CMU Course](Convex Optimization: Fall 2019) |  ![#1589F0](Review Later)| 
+
