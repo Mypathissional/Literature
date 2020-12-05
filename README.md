@@ -20,6 +20,7 @@ Recommended lectures, literature on math and computer science
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
 | Ali Ghodsi| Data Visualization | [YouTube](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)  | Course offered by The University of Waterloo |
+|Alexander Novikov, Daniil Polykovskiy (Higher School of Economics) |Bayesian Methods for Machine Learning| [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml#syllabus) | Course offered at HSE, nice explanation of EM algorithm |
 
 ## Optimization
 ### Lectures
