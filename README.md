@@ -29,3 +29,8 @@ Recommended lectures, literature on math and computer science
 | Michel Bierlaire(EPFL)| Descent methods| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
 |Ryan Tibshirani (Carnegie Mellon University) | Convex Optimization: Fall 2019 | [YouTube](https://www.youtube.com/watch?v=ucPR0lSFpdk&list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT) , [CMU Course](http://www.stat.cmu.edu/~ryantibs/convexopt/) | ```Review Later ```| 
 
+## Computer Graphics 
+### Literature
+| __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
+|-------------|------------|------------|------------|
+|Dr. C.-K. Shene(Michigan Technological University) |Introduction to Computing with Geometry | [Lecture Notes](https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/)| Nice Section on B-Spline/Bezier Curves |
