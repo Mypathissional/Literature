@@ -40,4 +40,4 @@ Recommended lectures, literature on math and computer science
 ### Literature
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-|Дынников И. А (Профе́ссор Росси́йской акаде́мии нау́к) | Классическая дифференциальная геометрия  | [YouTube](https://www.youtube.com/watch?v=Yk0bSg0I8gw&list=PLcsjsqLLSfND70ynUJIzQpKFMSMwCIC0m)| Recommeded Literature:  Manfredo p. do carmo Differential Geometry of curves and surfaces, Норден А.П.	Краткий курс дифференциальной геометрии |
+|Дынников И. А (Профе́ссор Росси́йской акаде́мии нау́к) | Классическая дифференциальная геометрия  | [YouTube](https://www.youtube.com/watch?v=Yk0bSg0I8gw&list=PLcsjsqLLSfND70ynUJIzQpKFMSMwCIC0m),[Lecture Notes](http://higeom.math.msu.su/teaching/students/difgeom/russian.html) | Recommeded Literature:  Manfredo p. do carmo Differential Geometry of curves and surfaces, Норден А.П.	Краткий курс дифференциальной геометрии |
