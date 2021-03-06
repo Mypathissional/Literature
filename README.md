@@ -34,3 +34,10 @@ Recommended lectures, literature on math and computer science
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
 |Dr. C.-K. Shene(Michigan Technological University) |Introduction to Computing with Geometry | [Lecture Notes](https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/)| Nice Section on B-Spline/Bezier Curves |
+
+
+## Differential Geometry
+### Literature
+| __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
+|-------------|------------|------------|------------|
+|Дынников И. А (Профе́ссор Росси́йской акаде́мии нау́к) | Классическая дифференциальная геометрия - | [YouTube](https://www.youtube.com/watch?v=Yk0bSg0I8gw&list=PLcsjsqLLSfND70ynUJIzQpKFMSMwCIC0m)| |
