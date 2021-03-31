@@ -15,6 +15,14 @@ Recommended lectures, literature on math and computer science
 |-------------|------------|------------|------------|
 | Gilbert Strang(MIT)| Linear Algebra | [MIT Lecture ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  | Course offered by MIT |
 
+## Calculus & Analysis 
+### Literature 
+
+| __Authors__ | __Title__ | __Comments__ |
+|-------------|------------|------------|
+| Spivak, Michael | Calculus | Nice introductory course on calculus |
+
+
 ## Data Science 
 ### Lectures
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
