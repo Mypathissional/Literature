@@ -1,4 +1,4 @@
-# Literature
+# ![#f03c15](Literature)
 Recommended lectures, literature on math and computer science
 
 ## Linear Algebra 
