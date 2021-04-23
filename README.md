@@ -22,6 +22,13 @@ Recommended lectures, literature on math and computer science
 |-------------|------------|------------|
 | Spivak, Michael | Calculus | Nice introductory course on calculus |
 
+## Deep Learning 
+### Lectures
+| __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
+|-------------|------------|------------|------------|
+| Dmitry Vetrov (HSE, Samsung AI) and many others| Deep Bayes Summer Camp | [YouTube](https://www.youtube.com/watch?v=SPgRVzfnESQ&list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW&index=2) , [Github](https://github.com/bayesgroup/deepbayes-2019) | Course offered by Scholtech Faculty and the leading russian ML researchers|
+
+
 
 ## Data Science 
 ### Lectures
