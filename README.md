@@ -59,6 +59,5 @@ Recommended lectures, literature on math and computer science
 ### Literature
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
-|Attila M´at´e (Brooklyn College of the City University of New York)  |
-[The Frenet–Serret formulas] (http://www.sci.brooklyn.cuny.edu/~mate/misc/frenet_serret.pdf)| Nice and clear derivation of Frenet-Serret formulas |
+|Attila M´at´e (Brooklyn College of the City University of New York)|[The Frenet–Serret formulas](http://www.sci.brooklyn.cuny.edu/~mate/misc/frenet_serret.pdf)| Nice and clear derivation of Frenet-Serret formulas |
 
