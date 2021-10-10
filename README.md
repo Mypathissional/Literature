@@ -1,5 +1,5 @@
 # Literature
-Recommended lectures, literature on math and computer science
+My persional favourite collection on lectures, literature on math and computer science
 
 ## Linear Algebra 
 ### Literature 
@@ -18,7 +18,7 @@ Recommended lectures, literature on math and computer science
 
 ## Calculus & Analysis 
 ### Literature 
-
+H1{color:Blue !important;}
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
 | Spivak, Michael | Calculus | Nice introductory course on calculus |
