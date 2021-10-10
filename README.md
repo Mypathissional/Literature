@@ -15,12 +15,6 @@ Recommended lectures, literature on math and computer science
 |-------------|------------|------------|------------|
 | Gilbert Strang(MIT)| Linear Algebra | [MIT Lecture ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  | Course offered by MIT |
 
-## Optimization
-### Literature 
-
-| __Authors__ | __Title__ | __Comments__ |
-|-------------|------------|------------|
-|  Dimitris Bertsimas | Introduction to Linear Optimization| The main textbook used in most of the courses, also a great intuitive explaination of Simplex algorithm |
 
 ## Calculus & Analysis 
 ### Literature 
@@ -50,6 +44,12 @@ Recommended lectures, literature on math and computer science
 |-------------|------------|------------|------------|
 | Michel Bierlaire(EPFL)| Descent methods| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
 |Ryan Tibshirani (Carnegie Mellon University) | Convex Optimization: Fall 2019 | [YouTube](https://www.youtube.com/watch?v=ucPR0lSFpdk&list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT) , [CMU Course](http://www.stat.cmu.edu/~ryantibs/convexopt/) | ```Review Later ```| 
+
+### Literature 
+
+| __Authors__ | __Title__ | __Comments__ |
+|-------------|------------|------------|
+|  Dimitris Bertsimas | Introduction to Linear Optimization| The main textbook used in most of the courses, also a great intuitive explaination of Simplex algorithm |
 
 ## Computer Graphics 
 ### Literature
