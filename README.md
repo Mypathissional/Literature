@@ -23,7 +23,7 @@ My persional favourite collection on lectures, literature on math and computer s
 
 ## Calculus & Analysis 
 ### Literature 
-@@ blah @@
+
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
 | Spivak, Michael | Calculus | Nice introductory course on calculus |
