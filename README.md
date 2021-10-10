@@ -15,6 +15,13 @@ Recommended lectures, literature on math and computer science
 |-------------|------------|------------|------------|
 | Gilbert Strang(MIT)| Linear Algebra | [MIT Lecture ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  | Course offered by MIT |
 
+## Optimization
+### Literature 
+
+| __Authors__ | __Title__ | __Comments__ |
+|-------------|------------|------------|
+|  Dimitris Bertsimas | Introduction to Linear Optimization| The main textbook used in most of the courses, also a great intuitive explaination of Simplex algorithm |
+
 ## Calculus & Analysis 
 ### Literature 
 
