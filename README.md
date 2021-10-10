@@ -1,13 +1,4 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-```diff
--# Literature
-```
+
 My persional favourite collection on lectures, literature on math and computer science
 
 ## Linear Algebra 
@@ -24,6 +15,11 @@ My persional favourite collection on lectures, literature on math and computer s
 |-------------|------------|------------|------------|
 | Gilbert Strang(MIT)| Linear Algebra | [MIT Lecture ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  | Course offered by MIT |
 
+
+## Probability and Statistics
+| __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
+|-------------|------------|------------|------------|
+|Joe Blitzstein(Harvard)|  Statistics 110: Probability| [YouTube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo), [Lecture Course](https://projects.iq.harvard.edu/stat110)| The course provides a solid introduction to probability theory and ,what is also interesting, into probability history. The professor does a great job in explaining/telling the historical origins of many examples given in the course.|
 
 ## Calculus & Analysis 
 ### Literature 
