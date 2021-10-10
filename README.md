@@ -5,7 +5,9 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
-# Literature
+```diff
+-# Literature
+```
 My persional favourite collection on lectures, literature on math and computer science
 
 ## Linear Algebra 
