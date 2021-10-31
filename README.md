@@ -6,7 +6,7 @@ My persional favourite collection on lectures, literature on math and computer s
 
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
-| Lloyd N. Trefethen, David Bau III| Numerical Linear Algebra | Recommended by Gilbert Strang(MIT) |
+| Lloyd N. Trefethen, David Bau III| ** Numerical Linear Algebra **| Recommended by Gilbert Strang(MIT) |
 | Gene H. Golub, Charles F. Van Loan  |  Matrix Computation | Recommended by Gilbert Strang(MIT) |
 | David Poole | Linear Algebra: A Modern Introduction | AUA textbook |
 
