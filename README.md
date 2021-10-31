@@ -1,7 +1,7 @@
 
 My persional favourite collection on lectures, literature on math and computer science
 
-## **Linear Algebra ** 
+## Linear Algebra 
 ### Literature 
 
 | __Authors__ | __Title__ | __Comments__ |
