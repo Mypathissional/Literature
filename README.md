@@ -16,60 +16,60 @@ My persional favourite collection on lectures, literature on math and computer s
 | Gilbert Strang(MIT)| **Linear Algebra** | [MIT Lecture ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  | Course offered by MIT |
 
 
-## Probability and Statistics
+## **Probability and Statistics**
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-|Joe Blitzstein(Harvard)|  Statistics 110: Probability| [YouTube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo), [Lecture Course](https://projects.iq.harvard.edu/stat110)| The course provides a solid introduction to probability theory and ,what is also interesting, into probability history. The professor does a great job in explaining/telling the historical origins of many examples given in the course.|
+|Joe Blitzstein(Harvard)|  **Statistics 110: Probability**| [YouTube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo), [Lecture Course](https://projects.iq.harvard.edu/stat110)| The course provides a solid introduction to probability theory and ,what is also interesting, into probability history. The professor does a great job in explaining/telling the historical origins of many examples given in the course.|
 
-## Calculus & Analysis 
-### Literature 
+## **Calculus & Analysis** 
+### *Literature* 
 
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
-| Spivak, Michael | Calculus | Nice introductory course on calculus |
+| Spivak, Michael | **Calculus** | Nice introductory course on calculus |
 
-## Deep Learning 
-### Lectures
+## **Deep Learning** 
+### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-| Dmitry Vetrov (HSE, Samsung AI) and many others| Deep Bayes Summer Camp | [YouTube](https://www.youtube.com/watch?v=SPgRVzfnESQ&list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW&index=2) , [Github](https://github.com/bayesgroup/deepbayes-2019) | Course offered by Scholtech Faculty and the leading russian ML researchers|
+| Dmitry Vetrov (HSE, Samsung AI) and many others| **Deep Bayes Summer Camp** | [YouTube](https://www.youtube.com/watch?v=SPgRVzfnESQ&list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW&index=2) , [Github](https://github.com/bayesgroup/deepbayes-2019) | Course offered by Scholtech Faculty and the leading russian ML researchers|
 
 
 
-## Data Science 
-### Lectures
+## **Data Science** 
+### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-| Ali Ghodsi| Data Visualization | [YouTube](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)  | Course offered by The University of Waterloo |
-|Alexander Novikov, Daniil Polykovskiy (Higher School of Economics) |Bayesian Methods for Machine Learning| [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml#syllabus) | Course offered at HSE, nice explanation of EM algorithm |
+| Ali Ghodsi| **Data Visualization** | [YouTube](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)  | Course offered by The University of Waterloo |
+|Alexander Novikov, Daniil Polykovskiy (Higher School of Economics) |**Bayesian Methods for Machine Learning**| [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml#syllabus) | Course offered at HSE, nice explanation of EM algorithm |
 
-## Optimization
-### Lectures
+## **Optimization**
+### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-| Michel Bierlaire(EPFL)| Descent methods| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
-|Ryan Tibshirani (Carnegie Mellon University) | Convex Optimization: Fall 2019 | [YouTube](https://www.youtube.com/watch?v=ucPR0lSFpdk&list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT) , [CMU Course](http://www.stat.cmu.edu/~ryantibs/convexopt/) | ```Review Later ```| 
+| Michel Bierlaire(EPFL)| **Descent methods**| [YouTube](https://www.youtube.com/watch?v=3wh_TLzuiRI&list=PL10NOnsbP5Q7wNrYItE2GhKq05cVov97e&index=1)  | Very nice explanation of Arminjo conditions |
+|Ryan Tibshirani (Carnegie Mellon University) | **Convex Optimization: Fall 2019** | [YouTube](https://www.youtube.com/watch?v=ucPR0lSFpdk&list=PLjbUi5mgii6AGJW3La3BpEXe27n8v3biT) , [CMU Course](http://www.stat.cmu.edu/~ryantibs/convexopt/) | ```Review Later ```| 
 
-### Literature 
+### *Literature* 
 
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
-|  Dimitris Bertsimas | Introduction to Linear Optimization| The main textbook used in most of the courses, also a great intuitive explaination of Simplex algorithm |
+|  Dimitris Bertsimas | **Introduction to Linear Optimization**| The main textbook used in most of the courses, also a great intuitive explaination of Simplex algorithm |
 
-## Computer Graphics 
-### Literature
+## **Computer Graphics** 
+### *Literature*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-|Dr. C.-K. Shene(Michigan Technological University) |Introduction to Computing with Geometry | [Lecture Notes](https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/)| Nice Section on B-Spline/Bezier Curves |
+|Dr. C.-K. Shene(Michigan Technological University) |**Introduction to Computing with Geometry** | [Lecture Notes](https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/)| Nice Section on B-Spline/Bezier Curves |
 
 
-## Differential Geometry
-### Lectures
+## **Differential Geometry**
+### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
-|Дынников И. А (Профе́ссор Росси́йской акаде́мии нау́к) | Классическая дифференциальная геометрия  | [YouTube](https://www.youtube.com/watch?v=Yk0bSg0I8gw&list=PLcsjsqLLSfND70ynUJIzQpKFMSMwCIC0m),[Lecture Notes](http://higeom.math.msu.su/teaching/students/difgeom/russian.html) | Recommeded Literature:  Manfredo p. do carmo Differential Geometry of curves and surfaces, Норден А.П.	Краткий курс дифференциальной геометрии |
-### Literature
+|Дынников И. А (Профе́ссор Росси́йской акаде́мии нау́к) | **Классическая дифференциальная геометрия**  | [YouTube](https://www.youtube.com/watch?v=Yk0bSg0I8gw&list=PLcsjsqLLSfND70ynUJIzQpKFMSMwCIC0m),[Lecture Notes](http://higeom.math.msu.su/teaching/students/difgeom/russian.html) | Recommeded Literature:  Manfredo p. do carmo Differential Geometry of curves and surfaces, Норден А.П.	Краткий курс дифференциальной геометрии |
+### *Literature*
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
-|Attila M´at´e (Brooklyn College of the City University of New York)|[The Frenet–Serret formulas](http://www.sci.brooklyn.cuny.edu/~mate/misc/frenet_serret.pdf)| Nice and clear derivation of Frenet-Serret formulas |
+|Attila M´at´e (Brooklyn College of the City University of New York)|[**The Frenet–Serret formulas**](http://www.sci.brooklyn.cuny.edu/~mate/misc/frenet_serret.pdf)| Nice and clear derivation of Frenet-Serret formulas |
 
