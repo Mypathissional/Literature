@@ -14,7 +14,7 @@ My persional favourite collection on lectures, literature on math and computer s
 | Lloyd N. Trefethen, David Bau III| **Numerical Linear Algebra**| Recommended by Gilbert Strang(MIT) |
 | Gene H. Golub, Charles F. Van Loan  |  **Matrix Computation** | Recommended by Gilbert Strang(MIT) |
 | David Poole | **Linear Algebra: A Modern Introduction** | AUA textbook |
-|Michael Artin|**Algebra: Second Edition**| Interesting introduction of determinant |
+|Michael Artin|**Algebra: Second Edition**| First chapter is the proper way to introduce the subject |
 
 ### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
