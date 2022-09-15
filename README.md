@@ -1,5 +1,7 @@
-
+gh-md-toc
+=========
 [![CI](https://github.com/ekalinin/github-markdown-toc/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ekalinin/github-markdown-toc/actions/workflows/ci.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ekalinin/github-markdown-toc)
 
 My persional favourite collection on lectures, literature on math and computer science
 
