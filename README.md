@@ -1,9 +1,14 @@
 
 My persional favourite collection on lectures, literature on math and computer science
 
-## Table of content
-- [Computer Vision](#CV)
-- [Probability and Statistics](#PS)
+
+Table of contents
+=================
+
+<!--ts-->
+    * [Computer Vision](#CV)
+
+<!--te-->
 
 ## Computer Vision
 ### *Lectures*
