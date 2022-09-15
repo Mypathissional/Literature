@@ -3,6 +3,7 @@ My persional favourite collection on lectures, literature on math and computer s
 
 ## Table of content
 - [Computer Vision](#CV)
+- [Probability and Statistics](#PS)
 
 ## **Computer Vision** 
 ### *Lectures*
