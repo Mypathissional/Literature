@@ -1,22 +1,23 @@
-gh-md-toc
-=========
-[![CI](https://github.com/ekalinin/github-markdown-toc/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ekalinin/github-markdown-toc/actions/workflows/ci.yml)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ekalinin/github-markdown-toc)
 
 My persional favourite collection on lectures, literature on math and computer science
 
 
 Table of contents
 =================
-
-<!--ts-->
-    * [Computer Vision](#CV)
-
-<!--te-->
+- [Computer Vision](#computer-vision)
+- [Linear Algebra](#linear-algebra)
+- [Probability and Statistics](#probability-and-statistics)
+- [Combinatorics](#combinatorics)
+- [Deep Learning](#deep-learning)
+- [Data Science](#data-science)
+- [Optimization](#optimization)
+- [Computer Graphics](#computer-graphics)
+- [Differential Geometry](#differential-geometry)
+- [Calculus and Analysis](#calculus-and-analysis)
 
 ## Computer Vision
-### *Lectures*
-### *Lectures*
+### Lectures
+### Lectures
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
 |-------------|------------|------------|------------|
 | Prof Fred Hamprecht (UniHeidelberg)| Computer Vision Foundations Class| [YouTube](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRAbnmiyGd77hyoGzO9wPde),[Prof Fred Hamprecht website] (https://hci.iwr.uni-heidelberg.de/people/fhamprec) |Comment later on|
@@ -47,7 +48,7 @@ Table of contents
 | __Authors__ | __Title__ | __Comments__ |
 |-------------|------------|------------|
 |Herbert S. Wilf[University of Pennsylvania]|generatingfunctionology|Very easy intro and a nice set of excercises|
-## **Calculus & Analysis** 
+## **Calculus and Analysis** 
 ### *Literature* 
 
 | __Authors__ | __Title__ | __Comments__ |
