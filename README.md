@@ -5,7 +5,7 @@ My persional favourite collection on lectures, literature on math and computer s
 - [Computer Vision](#CV)
 - [Probability and Statistics](#PS)
 
-## **Computer Vision** 
+## Computer Vision
 ### *Lectures*
 ### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
