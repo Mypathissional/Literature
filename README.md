@@ -23,6 +23,7 @@ Table of contents
 | Prof Fred Hamprecht (UniHeidelberg)| Computer Vision Foundations Class| [YouTube](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRAbnmiyGd77hyoGzO9wPde),[Prof Fred Hamprecht website] (https://hci.iwr.uni-heidelberg.de/people/fhamprec) |Comment later on|
 |Prof. Faisal Qureshi| Computer Vision| [Course WebSite](http://csundergrad.science.uoit.ca/courses/cv-notes/notebooks/01-image-formation.html) | Computer Vision Basics with Python implementation|
 |Prof. Kris Kitani| Computer Vision (Carnegie Mellon)| [Course Website](https://www.cs.cmu.edu/~16385/s17/)|Lecture notes from the course|
+|Dr. Mubarak Shah| Computer Vision(2012)| [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)||
 ## **Linear Algebra** 
 ### *Literature* 
 
