@@ -24,6 +24,7 @@ Table of contents
 |Prof. Faisal Qureshi| Computer Vision| [Course WebSite](http://csundergrad.science.uoit.ca/courses/cv-notes/notebooks/01-image-formation.html) | Computer Vision Basics with Python implementation|
 |Prof. Kris Kitani| Computer Vision (Carnegie Mellon)| [Course Website](https://www.cs.cmu.edu/~16385/s17/)|Lecture notes from the course|
 |Dr. Mubarak Shah| Computer Vision(2012)| [YouTube](https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm)||
+|Prof. Olga Russakovsky (Princeton University)| [LectureNotes](https://www.cs.princeton.edu/courses/archive/fall17/cos429/outline.html) |Olga Russakovsky |
 ## **Linear Algebra** 
 ### *Literature* 
 
