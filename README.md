@@ -74,6 +74,8 @@ Table of contents
 | Ali Ghodsi| **Data Visualization** | [YouTube](https://www.youtube.com/watch?v=L-pQtGm3VS8&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK)  | Course offered by The University of Waterloo |
 |Alexander Novikov, Daniil Polykovskiy (Higher School of Economics) |**Bayesian Methods for Machine Learning**| [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml#syllabus) | Course offered at HSE, nice explanation of EM algorithm |
 |Dmitriy Vetrov |**Bayesian Methods for Machine Learning (Russian Language)**| [Youtube](https://www.youtube.com/watch?v=Ejsr3S79gcQ&list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw) | The course has videos from lectures and seminars |
+|John Paisley(Columbia) |*Bayesian models for machine learning**| [Lecture Notes](https://www.columbia.edu/~jwp2128/) | The lecture notes were recommended by Deep Bayes summer camp of Dmitriy Vetrov |
+
 ## **Optimization**
 ### *Lectures*
 | __Lecturer(s)__ | __Title__ | __Links__ | __Comments__ |
