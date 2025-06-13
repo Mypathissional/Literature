@@ -56,7 +56,7 @@ Table of contents
 ### *Literature* 
 
 | __Authors__ | __Title__ | __Links__ | __Comments__ |
-|-------------|------------|------------|
+|-------------|------------|------------||------------|
 | Spivak, Michael | **Calculus** | | Nice introductory course on calculus |
 |MIT 18.S096  Alan Edelman, Steven G. Johnson | Matrix Calculus For Machine Learning And Beyond| [YouTube](https://www.youtube.com/watch?v=0YqjeqLhDDE&list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)| A great intuitive introduction to matrix calculus, they balance the theory and the numberical demonstations |
 
